@@ -1,6 +1,7 @@
+Ку, не забывай выходить из аккаунтов и убирать пароли из менеджера паролей, а ещё лучше используй вкладки инкогнито, когда ты не дома
+<!--
 ## Hi there 👋
 
-<!--
 **morspit/morspit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
